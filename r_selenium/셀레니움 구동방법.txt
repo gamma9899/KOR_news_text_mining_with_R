@@ -1,0 +1,8 @@
+[윈도우 기준]
+cmd 실행
+cd c:\r_selenium
+
+java -Dwebdriver.gecko.driver="geckodriver.exe" -jar selenium-server-standalone-4.0.0-alpha-1.jar -port 4445
+
+엑세스 허용
+이후 cmd 창은 끄지 않고 최소화 해놓는다.
